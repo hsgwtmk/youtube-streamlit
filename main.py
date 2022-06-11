@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import time
-import tkinter as TK
+import tkinter
 
 st.title('Streamlit 超入門')
 
